@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css">
+   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" crossorigin="anonymous">
+    <script src="https://your-site-or-cdn.com/fontawesome/v5.15.4/js/all.js" ></script>
+    <script src="https://kit.fontawesome.com/5b981d4495.js" crossorigin="anonymous"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"  rel="stylesheet"/>
+    <title>Assumere</title>
+    <style>
+      h2 
+      {
+        text-align: center;
+      }
+    </style>
+   <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+   <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" rel="stylesheet">
+   <link href="css/owl.theme.default.css" rel="stylesheet">  
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+</head>
+  <body>
+    
+    &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+    <div class="top">
+     &nbsp; <i class="fa-solid fa-phone"><span id="num" >+91 7094308300 </span></i>&nbsp;  &nbsp;  &nbsp;  &nbsp;  
+      <i class="fa-solid fa-envelope" ><span id="num" >info@assumere.in</span></i>
+      &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+      &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+      <a class="fb-icon"  href="https://www.facebook.com/people/Randy-Orton/100001187316048/">
+        <i class="fa-brands fa-facebook fa-1g"></i>&nbsp;
+      </a>
+      <a class="insta-icon"  href="https://www.instagram.com/xukai.0305/?hl=en">
+        <i class="fa-brands fa-instagram fa-1g"></i>&nbsp;
+    </a>
+    <a class="twit-icon"  href="https://twitter.com/elonmusk">
+      <i class="fa-brands fa-twitter fa-1g"></i>
+    </a>
+    <a class="linkedin-icon"  href="https://twitter.com/elonmusk">
+    <i class="fa-brands fa-linkedin fa-1g"></i>
+    </a>
+    </div>
+    <hr>
+
+    <!--top logo nd home-->
+    <div class="auto-type">
+      <nav>
+        <div class="container">
+          <img src="image/logo.jpeg" class="logo">
+     
+      <ul> 
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <li><a href="#">Home<a></li>
+      <li><a href="#">About&nbsp;Us<a></li>
+      <li><a href="#">Industries Served<a></li>
+      <li><a href="#">Services<a></li>
+      <li><a href="#">contact<a></li>
+     </ul>
+     </div>
+  </nav>
+  <div class="content">
+    <p class="slide-left">Let's find the career and Let's give the opportunity to others to build their career</p>
+<div class="links slide-left">
+<a href="#" class="btn">Learn More</a>
+<a href="#" class="btn">Contact</a>
+</div>
+</div>
+</div>
+<hr>
+<div class="counters">
+  <div class="container1">
+   
+    <span id="number1" class="number">10</span>
+    <div class="text">Years of Experience </div>
+  </div>
+  <div class="container1">
+    
+    <span id="number2" class="number">31</span>
+    <div class="text">Successfully placed</div>
+  </div>
+  <div class="container1">
+   
+    <span id="number3" class="number">10</span>
+    <div class="text">Happy Clients</div>
+  </div>
+  <div class="container1">
+   
+    <span id="number4" class="number">13</span>
+    <div class="text">Industries Served</div>
+  </div>
+</div>
+<script src="script.js"></script>
+
+<section class="testim" id="testim">
+  <div class="wrap">
+
+      <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
+      <span id="left-arrow" class="arrow left fa fa-chevron-left"></span>
+
+      <ul class="dots" id="testim-dots">
+          <li class="dot active"></li>
+          <li class="dot"></li>
+          <li class="dot"></li>
+          <li class="dot"></li>
+          <li class="dot"></li>
+      </ul>
+
+      <div class="cont" id="testim-content">
+
+          <div class="active">
+              <div class="img"><img src="image/1.jpg"></div>
+              <h2>Emilie</h2>
+              <h2>designation,company name</h2>
+              <p>If an element has a specified width, the padding added to that element will be added to the total width of the element. This is often an undesirable result..</p>
+          </div>
+          
+          <div>
+              <div class="img"><img src="image/2.jpg"></div>
+              <h2>Samantha</h2>
+              <h2>designation,company name</h2>
+              <p>If an element has a specified width, the padding added to that element will be added to the total width of the element. This is often an undesirable result</p>
+          </div>
+          
+          <div>
+              <div class="img"><img src="image/1.jpg"></div>
+              <h2>Priya</h2>
+              <h2>designation,company name</h2>
+              <p>If an element has a specified width, the padding added to that element will be added to the total width of the element. This is often an undesirable result.</p>
+          </div>
+          
+          <div>
+              <div class="img"><img src="image/1.jpg"></div>
+              <h2>swathhi</h2>
+              <h2>designation,company name</h2>
+              <p>If an element has a specified width, the padding added to that element will be added to the total width of the element.</p>
+          </div>
+          
+          <div>
+              <div class="img"><img src="image/2.jpg"></div>
+              <h2>Charu</h2>
+              <h2>designation,company name</h2>
+              <p>If an element has a specified width, the padding added to that element will be added to the total width of the element. This is often an undesirable result</p>
+          </div>
+      </div>
+
+  </div>
+</section>
+<script>
+  var testim = document.getElementById("testim"),
+    testimDots = Array.prototype.slice.call(document.getElementById("testim-dots").children),
+    testimContent = Array.prototype.slice.call(document.getElementById("testim-content").children),
+    testimleftArrow = document.getElementById("left-arrow"),
+    testimRightArrow = document.getElementById("right-arrow"),
+    testimSpeed = 4500,
+    currentSlide = 0,
+    currentActive = 0,
+    testimTimer
+    ;
+
+window.onload = function () {
+
+    // Testim Script
+    function playSlide(slide) {
+        for (var k = 0; k < testimDots.length; k++) {
+            testimContent[k].classList.remove("active");
+            testimContent[k].classList.remove("inactive");
+            testimDots[k].classList.remove("active");
+        }
+        if (slide < 0) {
+            slide = currentSlide = testimContent.length - 1;
+        }
+        if (slide > testimContent.length - 1) {
+            slide = currentSlide = 0;
+        }
+        if (currentActive != currentSlide) {
+            testimContent[currentActive].classList.add("inactive");
+        }
+        testimContent[slide].classList.add("active");
+        testimDots[slide].classList.add("active");
+
+        currentActive = currentSlide;
+
+        clearTimeout(testimTimer);
+        testimTimer = setTimeout(function () {
+            playSlide(currentSlide += 1);
+        }, testimSpeed)
+    }
+
+    testimleftArrow.addEventListener("click", function () {
+        playSlide(currentSlide -= 1);
+    })
+    testimRightArrow.addEventListener("click", function () {
+        playSlide(currentSlide += 1);
+    })
+
+    for (var l = 0; l < testimDots.length; l++) {
+        testimDots[l].addEventListener("click", function () {
+            playSlide(currentSlide = testimDots.indexOf(this));
+        })
+    }
+    playSlide(currentSlide);
+
+}
+
+
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+<script>
+  $(".testmonial_slider_area").owlCarousel({
+  autoplay: true,
+  slideSpeed:1000,
+  items : 3,
+  loop: true,
+  nav:true,
+  navText:['<i class="fa fa-arrow-left"></i>','<i class="fa fa-arrow-right"></i>'],
+  margin: 30,
+  dots: true,
+  responsive:{
+    320:{
+      items:1
+    },
+    767:{
+      items:2
+    },
+    600:{
+      items:2
+    },
+    1000:{
+      items:3
+    }
+  }
+  
+});
+</script>
+
+<div class="brand-carousel section-padding owl-carousel">
+  <div class="single-logo">
+    <img src="image/Adappt.png" alt="">
+  </div>
+<div class="single-logo">
+    <img src="image/aditi.png" alt="">
+  </div>
+<div class="single-logo">
+    <img src="image/Boyd.jpg" alt="">
+  </div>
+<div class="single-logo">
+    <img src="image/Byjus.png" alt="">
+  </div>
+<div class="single-logo">
+    <img src="image/Delfingen.png" alt="">
+  </div>5
+<div class="single-logo">
+    <img src="image/DRS.jpg" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/grundfos.png" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/hope.png" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/IMMPL.png" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/ITC.jpg" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/jain.jpg" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/KCC.png" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/Rak.png" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/sagar.png" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/spect.jpg" alt="">
+  </div>
+  <div class="single-logo">
+    <img src="image/Wabag.png" alt="">
+  </div>
+</div>
+<script>
+  $('.brand-carousel').owlCarousel({
+  loop:true,
+  margin:10,
+  autoplay:true,
+  responsive:{
+    0:{
+      items:1
+    },
+    600:{
+      items:3
+    },
+    1000:{
+      items:5
+    }
+  }
+}) 
+
+</script>
+
+<footer class="footer">
+  <div class="container_las">
+    <div class="row">
+      <div class="footer-col">
+        <h5>geo loc</h5>
+        <ul>
+          <li>location</li>
+          <li>map pic</li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>company</h4>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Industries Served</a></li>
+          <li><a href="#">Services</a></li>
+        </ul>
+      </div>
+   
+      <div class="footer-col">
+        <h4>follow us</h4>
+        <div class="social-links">
+          <a href="https://www.facebook.com/people/Randy-Orton/100001187316048/"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.facebook.com/people/Randy-Orton/100001187316048/"><i class="fab fa-twitter"></i></a>
+          <a href="https://www.facebook.com/people/Randy-Orton/100001187316048/"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.facebook.com/people/Randy-Orton/100001187316048/"> <i class="fa-brands fa-linkedin-in"></i></a>
+        </div>
+      </div>
+  
+    </div>
+  </div>
+</footer>
+
+<section class="container_last">
+  <div class="last">
+    <ul>
+      <!--<P>ARE YOU LOCATED IN PONDICHERRY</P> 
+      <li>You can conveniently travel to Assumere if you want to visit</li>&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;!-->
+      <li>No: 44, 1st floor, 4th cross, 2nd main road, moogambigai nagar, nainarmandapam, pondicherry- 605 004.</li>&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+      &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+      <li>Assumere © 2022 Assumere Systems All Rights Reserved</li>
+    </ul>
+  </div>
+</section>
+
+</body>
+</html>
+
+
